@@ -1,0 +1,9 @@
+# Bỏ qua file video (quá nặng cho GitHub, tải lên riêng)
+*.mp4
+*.mov
+*.avi
+*.webm
+
+# Hệ thống
+.DS_Store
+Thumbs.db
